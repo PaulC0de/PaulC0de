@@ -1,4 +1,4 @@
-### Hi there, I'm [Your Name] 👋
+### Hi there, I'm Pawel 👋
 
 🚀 **Full Stack React Developer** | Passionate about building scalable web applications
 
