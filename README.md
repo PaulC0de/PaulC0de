@@ -31,6 +31,7 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=PaulC0de&show_icons=true&theme=react" width="48%" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PaulC0de&theme=react" width="48%" />
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PaulC0de&theme=react)](https://git.io/streak-stats)
 
 ---
 
