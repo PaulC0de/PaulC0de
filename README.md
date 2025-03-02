@@ -41,4 +41,5 @@
 
 🌱 Currently learning **Advanced TypeScript, AI in Web Dev**
 
+
 💡 Open to **collaborations on exciting React projects**!
