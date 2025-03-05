@@ -2,7 +2,6 @@
 
 🚀 **Full Stack React Developer** | Passionate about building scalable web applications
 
----
 
 ### 🛠 Tech Stack
 
