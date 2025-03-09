@@ -24,8 +24,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
----
-
 ### 📈 GitHub Stats
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=PaulC0de&show_icons=true&theme=react" width="48%" />
